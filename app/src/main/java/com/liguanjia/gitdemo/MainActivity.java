@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void next(){
+
         //再难的东西，学会就建党了。
         //再难的东西，学会就建党了。
         //再难的东西，学会就建党了。
