@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //再难的东西，学会就建党了。
     }
     public void next1(){
+
         /////////////////////
         ////////////////////////
         /////////////////////////////
