@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //再难的东西，学会就简单了。
-        //我是正版的。
+        //我是盗版的。
     }
 
 }
