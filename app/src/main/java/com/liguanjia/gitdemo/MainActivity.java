@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //再难的东西，学会就简单了。
+        /**
+         *   千山鸟飞绝，万径人踪灭。
+         *
+         *   孤舟蓑笠翁，独钓寒江雪。
+         */
     }
 
 }
